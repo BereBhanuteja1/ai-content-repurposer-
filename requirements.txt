@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
+moviepy
+librosa
+openai
+google-generativeai
+mediapipe
+opencv-python
+python-multipart
